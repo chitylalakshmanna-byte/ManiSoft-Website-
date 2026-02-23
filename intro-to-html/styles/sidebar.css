@@ -10,7 +10,6 @@
 }
 .sidebar-link{
   height: 74px;
-  
   display: flex;
   justify-content: center;
   align-items: center;
@@ -27,4 +26,5 @@
 .sidebar-link div{
   
   font-size: 10px;
+
 }
