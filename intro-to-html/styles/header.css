@@ -4,13 +4,11 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
     z-index: 100;
-    
     background-color: white;
     border-bottom-width: 1px ;
     border-bottom-color: rgb(228, 228, 228);
@@ -39,8 +37,7 @@
     box-shadow: inset 1px 2px 3px rgba(0,0,0,0.05);
     width: 0;
   }
-  .Search-bar::placeholder{
-    
+  .Search-bar::placeholder{ 
     font-size: 16px;
   }
   .search-button{
@@ -52,8 +49,6 @@
     border-color: rgb(192,192,192);
     margin-left: -1px;
     margin-right: 10px;
-
-    
   }
   .search-button,
   .voice-search-button,
@@ -107,7 +102,6 @@
   }
   .voice-search-icon{
     height: 24px;
-    
     background-color: rgb(245, 245, 245);
   }
   .right-section{
@@ -154,4 +148,5 @@
   .current-user-picture{
     height: 32px;
     border-radius: 16px;
+
   }
