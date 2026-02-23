@@ -33,7 +33,6 @@
       margin-top: 0;
     }
     .video-grid{
-      
       display: grid;
       grid-template-columns: 1fr 1fr 1fr;
       column-gap: 16px;
@@ -68,4 +67,5 @@
       bottom: 8px;
       right: 5px;
     }
+
     
